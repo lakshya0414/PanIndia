@@ -1,2 +1,0 @@
-# PanIndia
-GFG HACKATHON 
